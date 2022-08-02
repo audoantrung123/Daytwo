@@ -1,0 +1,43 @@
+*Lệnh tạo thư mục: 
+mkdir <tenthumuc>
+mkdir -p <ten1>/<ten2>  (tạo 2 thư mục liên tiếp)
+
+*Lệnh xóa thư mục:
+ rm -Rf <tenthumuc>/
+
+*Kiểm tra thư mục có những file nào:
+ls -la
+
+*Chuyển thư mục:
+cd <ten1>/<ten2>/
+cd .. (chuyển về trước)
+
+*Kiểm tra đường dẫn đang đứng
+pwd
+
+*Chuyển ổ đĩa
+vd: cd /d 
+
+----------------------------------------------------
+*Cấu hình GIT và Email:
+git config --global user.name "Tên của bạn"
+git config --global user.email "Email của bạn"
+Kiểm tra lại config xem đã đúng chưa
+git config --list
+
+*Lệnh tạo repo
+mkdir [tên dự án]
+cd [tên dự án]
+git init
+
+
+
+
+
+
+
+
+
+
+
+

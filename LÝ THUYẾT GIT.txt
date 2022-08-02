@@ -1,0 +1,5 @@
+*Repository: Là kho dữ liệu của 1 dự án.
+Gồm: Local Repo và Remote Repo
+ +Local Repo: Là repo phía local của developer, nó được đồng bộ lên remote repo khi làm việc với GIT
+ +Remote Repo: Là repo được lưu trữ ở GIT trung tâm ( vd: Github,bitbucket,backlog)
+ 
