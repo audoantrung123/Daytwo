@@ -29,6 +29,27 @@ git config --list
 mkdir [tên dự án]
 cd [tên dự án]
 git init
+git status
+git add
+git add .
+git status
+git commit -m "...."
+git commit -a
+git commit --amend
+
+git remote add origin +link
+
+git push -u origin
+git push --force
+
+git log
+git log --oneline
+
+git branch
+
+
+
+ 
 
 
 
